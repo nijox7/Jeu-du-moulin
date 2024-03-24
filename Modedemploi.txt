@@ -1,0 +1,15 @@
+Pour jouer une partie:
+
+Dans le fichier "JeuDuMoulin.py", affecter modifier les valeurs suivantes:
+
+    pour 2 joueurs:
+joueur1 = "blue"
+joueur2 = "red"
+
+    pour joueur contre IA:
+joueur1 = "blue"
+joueur2 = ordinateur2
+
+    pour IA contre IA:
+joueur1 = ordinateur1
+joueur2 = ordinateur2
